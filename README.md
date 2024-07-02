@@ -1,2 +1,1 @@
-# wp-api-theme
-რაღაც აღწერა
+# Wordpress-theme-sample
